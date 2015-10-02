@@ -1,0 +1,27 @@
+https://community.oracle.com/thread/1103368?tstart=0
+http://docs.oracle.com/cd/B10500_01/server.920/a96533/autotrac.htm
+http://www.oracledistilled.com/oracle-database/troubleshooting/set-autotrace-fails-with-error-sp2-0618/
+
+ls
+
+sqlplus
+
+set timing on
+set timing off
+
+set autotrace on
+set autotrace off
+set autotrace traceonly
+
+
+CREATE INDEX index_name ON table_name(column_name);
+CREATE UNIQUE INDEX index_name ON table_name(column_name);
+DROP INDEX index_name;
+
+@creacion.sql
+@insercion-pequeno.sql
+@insercion-grande.sql
+@creacion-indices.sql
+
+COMMIT;
+

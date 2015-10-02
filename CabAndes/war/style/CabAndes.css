@@ -1,0 +1,8 @@
+* {
+  font-size: 11px !important;
+}
+
+.celda {
+  padding: 0px 2px 0px 0px !important; /* top right bottom left */
+  white-space: nowrap !important;
+}

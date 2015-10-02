@@ -1,0 +1,2 @@
+serviceClass: co.edu.uniandes.cabAndes.client.CabAndesServlet
+path: D3712E748CD55ED42BEC617B2B5C26DE.gwt.rpc

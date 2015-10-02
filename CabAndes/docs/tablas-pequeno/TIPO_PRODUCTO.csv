@@ -1,0 +1,4 @@
+﻿ID;NOMBRE;DESCRIPCION;
+1;'Perecedero';'Productos perecederos';
+2;'No perecedero';'Productos no perecederos';
+3;'Refrigerado';'Productos refrigerados';

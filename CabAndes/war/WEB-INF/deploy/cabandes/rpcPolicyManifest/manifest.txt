@@ -1,0 +1,3 @@
+# Module cabandes
+# RPC service class, partial path of RPC policy file
+co.edu.uniandes.cabAndes.client.CabAndesServlet, D3712E748CD55ED42BEC617B2B5C26DE.gwt.rpc
